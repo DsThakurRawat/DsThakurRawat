@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ? contact me at linkdin 
 - 😄 Pronouns: ... HE/HIM
-- ⚡ Fun fact: ...I am not Good at Fun
+- ⚡ Fun fact: ..."DIVYANSH MEANT TO BE BEST"
   
    
 <!---
