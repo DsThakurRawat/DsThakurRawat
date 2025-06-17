@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ? contact me at linkdin 
 - 😄 Pronouns: ... HE/HIM
-- ⚡ Fun fact: ..."DIVYANSH MEANT TO BE BEST"
+- # NO GODS NO KINGS ONLY MENS
   
    
 <!---
