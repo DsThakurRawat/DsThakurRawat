@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ? contact me at linkdin 
 - 😄 Pronouns: ... HE/HIM
-- # NO GODS NO KINGS ONLY MENS
+- # Glad that you are here for project related AIML  Refer My series of projects of AIML in production
   
    
 <!---
