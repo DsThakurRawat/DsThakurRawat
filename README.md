@@ -1,30 +1,31 @@
 <h1 align="center">Hi 👋, I'm Divyansh Rawat</h1>
-<h3 align="center">A Passionate AI/ML & NLP Enthusiast | DSA Coder | Cloud Learner</h3>
+<h3 align="center">🚀 ML Engineer | NLP & GenAI Enthusiast | Data Engineer in Progress | DevOps Learner</h3>
 
 ---
 
-- 🌱 Currently learning: **ML Ops, Deep Learning, LangChain, Transformers, Docker, FastAPI**
-- 🚀 Building: **Production-grade AI/ML projects & NLP pipelines**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/divyansh-rawat-aba930313)** • divyanshrawatofficial@gmail.com
-- 💼 Tech Stack:
-  `Python` `C++` `TensorFlow` `PyTorch` `scikit-learn` `Docker` `FastAPI` `Streamlit` `SQL` `LangChain` `Hugging Face`
+### 👨‍💻 About Me
+
+- 🔭 Currently working on: **ML Projects, NLP Apps (GenAI), MLOps Pipelines**
+- 🧠 Learning: **Computer Vision**, **LangChain**, **RAG**, **CI/CD**, **Data Engineering (Spark, Kafka, Airflow)**
+- ☁️ Working with: **AWS, Colab, Kaggle, GitHub Actions**
+- 🤝 Open to collaborating on: **Open-source AI/ML, MLOps tools, and Applied NLP**
+- 📫 Reach me at: `divyanshrawatofficial@gmail.com`
+- 💼 LinkedIn: [divyansh-rawat](https://www.linkedin.com/in/divyansh-rawat-aba930313)
 
 ---
 
-### 🧠 My Interests
-- NLP + GenAI (Text summarization, BERT, Transformers, RAG)
-- ML in Production (Docker, MLflow, FastAPI)
-- Data Engineering (ETL pipelines, Kafka, Spark, Airflow)
-- CP/DSA (Leetcode, Codeforces, Codechef)
+### 🧰 Tech Stack & Tools
 
----
 
-### 🧰 Tools I Use
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,docker,fastapi,git,github,linux,mysql,postgres,streamlit,vscode" />
-</p>
+Languages:        Python, C++
+Deep Learning:    PyTorch, TensorFlow, Keras
+NLP & GenAI:      Hugging Face, Transformers, LangChain
+Data:             pandas, NumPy, SQL, PostgreSQL, MySQL
+MLOps/Deployment: FastAPI, Docker, MLflow, GitHub Actions, Streamlit
+Cloud/Infra:      AWS EC2/S3, Google Colab, Kaggle Notebooks
+Data Engineering: Apache Kafka, Apache Spark (in progress), Airflow
+Other Tools:      Git, Linux, VSCode, Jupyter, Markdown
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
