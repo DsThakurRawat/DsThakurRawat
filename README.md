@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Divyansh Rawat</h1>
-<h3 align="center">A Passionate AI/ML & NLP Engineer | Data Engineer in Progress | DevOps Learner | DSA Coder</h3>
 
 ---
 
