@@ -2,7 +2,7 @@
 
 ---
 
-- 🌱 Currently learning: **Computer Vision, Data Engineering (Kafka, Spark, Airflow), LangChain, RAG, CI/CD**
+- 🌱 Currently learning: ** ML, DL ,Computer Vision, Data Engineering (Kafka, Spark, Airflow), LangChain, RAG, CI/CD & working on mlops**
 - 🚀 Building: **Production-grade AI/ML + GenAI applications**
 - ☁️ Working on: **AWS**, **Colab**, **Kaggle**, **GitHub Actions**
 - 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/divyansh-rawat-aba930313)** • `divyanshrawatofficial@gmail.com`
