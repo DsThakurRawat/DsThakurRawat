@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Rawat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=ML+%7C+GenAI+%7C+MLOps+%7C+Data+Engineering+%7C+NLP+%7C+AI+in+Finance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=AI/ML+%7C+GenAI+%7C+Data+Engineering+%7C+Cloud+Computing+%7C+NLP+%7C+AI+in+Finance" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,21 +21,37 @@
 ### 💼 About Me
 
 - 🎓 B.Tech @ IIITDM Kurnool (2024–28) | AI Research Enthusiast
-- 🔍 Exploring: **MLOps, GenAI, CI/CD, Data Engineering, Regulatory NLP**
-- 🧠 Building: **Production-grade AI/ML + GenAI systems**
-- 🚀 Projects in: `Finance AI`, `Security ML`, `RAG`, `NLP`, `ETL Pipelines`
-- 🌍 Open to collaborations across domains: **AI | ML | MLOps | CV | NLP | GenAI | Data**
+- 🧠 Passionate about applying **AI in Finance**, Regulation & Real-world Applications
+- 🌱 Currently Learning: **GenAI, Cloud Computing, Data Engineering (Kafka, Spark, Airflow), LangChain, CI/CD**
+- 🚀 Building: **Production-grade AI/ML + GenAI Systems**
+- ☁️ Working with: **AWS (EC2, S3)**, **GCP (Vertex AI, GCS)**, **GitHub Actions**, **DagsHub**
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/divyansh-rawat-aba930313)** • `divyanshrawatofficial@gmail.com`
+
+---
+
+### 🧠 My Interests
+
+- 🔍 NLP + GenAI: BERT, RoBERTa, GPT, SBERT, Transformers, RAG, Prompt Engineering
+- 🧠 Deep Learning: CNN, RNN, LSTM, Attention, Sequence Models
+- 💹 AI in Finance: Risk Prediction, Regulatory NLP, Explainability
+- 🛠️ AI/ML System Design: CI/CD, Docker, MLflow, FastAPI, Monitoring
+- 🏗️ Data Engineering: ETL pipelines, Streaming (Kafka, Spark, Airflow)
+- ☁️ Cloud Computing: Deployments on AWS, GCP
+- 🔁 Reinforcement Learning, RLHF
+- 🧾 Technical Writing, Explainable AI, Research
 
 ---
 
 ### 🎯 Open Roles I'm Targeting
 
 - ✅ ML / Deep Learning Engineer  
-- ✅ GenAI / NLP Engineer  
-- ✅ MLOps / ML System Engineer  
-- ✅ AI Research / Applied AI Intern  
-- ✅ Data Engineer  
+- ✅ NLP / GenAI Engineer  
+- ✅ AI Research Intern / Applied AI Research  
 - ✅ AI in Finance / RegTech Researcher  
+- ✅ Data Engineer  
+- ✅ AI/ML + Cloud Intern (Full Stack AI/ML Systems)
+
+> 💡 *Open to collaboration on projects in any domain: AI, ML, GenAI, Cloud, Data, Finance, CV, RL, NLP.*
 
 ---
 
@@ -69,15 +85,23 @@
 
 ---
 
+### 🔥 Recent Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DsThakurRawat&theme=tokyo-night" />
+</p>
+
+---
+
 ### 🧠 Coding Heatmaps
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/codexdiv?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/dsThakurRawat/codeforces-activity-graph/main/output.svg" alt="Codeforces Heatmap" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/DsThakurRawat/codeforces-activity-graph/main/output.svg" alt="Codeforces Heatmap" />
 </p>
 
-> 📝 *Let me know if you want help generating your own Codeforces heatmap SVG like above.*
+> 🧩 *Tracking both CP & Dev activity. LeetCode + Codeforces = 🔥 Skill Growth*
 
 ---
 
@@ -96,12 +120,16 @@
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
-- 💌 Email: [divyanshrawatofficial@gmail.com](mailto:divyanshrawatofficial@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/divyansh-rawat-aba930313](https://www.linkedin.com/in/divyansh-rawat-aba930313)  
-- 🧠 Hugging Face: [huggingface.co/AIMLxDIV](https://huggingface.co/AIMLxDIV)  
+- 💌 Email: `divyanshrawatofficial@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/divyansh-rawat-aba930313](https://www.linkedin.com/in/divyansh-rawat-aba930313)
+- 🧠 Hugging Face: [huggingface.co/AIMLxDIV](https://huggingface.co/AIMLxDIV)
 - 👨‍💻 GitHub: [github.com/DsThakurRawat](https://github.com/DsThakurRawat)
+- 📊 LeetCode: [leetcode.com/u/codexdiv](https://leetcode.com/u/codexdiv)
+- ⚙️ Codeforces: [codeforces.com/profile/divyanshthakur594](https://codeforces.com/profile/divyanshthakur594)
+- 📚 AtCoder: [atcoder.jp/users/DsThakurRawat](https://atcoder.jp/users/DsThakurRawat)
+- 📈 Kaggle: [kaggle.com/dsthakurrawat](https://www.kaggle.com/dsthakurrawat)
 
 ---
 
