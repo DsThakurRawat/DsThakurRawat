@@ -2,7 +2,7 @@
 
 ---
 
-- 🎓 B.Tech @ IIIT Kurnool | AI Research Enthusiast
+- 🎓 B.Tech @ IIIT Kurnool
 - 🧠 Passionate about applying **AI in Finance**, Regulation & Real-world Applications
 - 🌱 Currently Learning: **MLOps, GenAI, Data Engineering (Kafka, Spark, Airflow), LangChain, CI/CD**
 - 🚀 Building: **Production-grade AI/ML + GenAI Systems**
