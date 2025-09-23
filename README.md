@@ -62,6 +62,7 @@
 ---
 
 ### 🏆 My Coding Profiles
+<!--
 
 - 🔗 [Leetcode](https://leetcode.com/u/codexdiv/)
 - 🔗 [Codeforces](https://codeforces.com/profile/divyanshthakur594)
@@ -69,7 +70,7 @@
 - 🔗 [AtCoder](https://atcoder.jp/users/DsThakurRawat)
 - 🔗 [Kaggle](https://www.kaggle.com/dsthakurrawat)
 - 🔗 [Hugging Face](https://huggingface.co/AIMLxDIV)
-
+-->
 ---
 
 ### 📌 Featured Projects
