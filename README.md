@@ -1,98 +1,140 @@
-<h1 align="center">Hi 👋, I'm Divyansh Rawat</h1>
+<div align="center">
+
+# ⚡ DIVYANSH RAWAT ⚡
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+ENGINEER;GENAI+%7C+NLP+SPECIALIST;MLOPS+%7C+ML+SYSTEM+ENGINEER;BUILDING+PRODUCTION+AI)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 
 ---
 
-- 🎓 B.Tech @ IIIT Kurnool
-- 🧠 Passionate about applying **AI in Finance**, Regulation & Real-world Applications
-- 🌱 Currently Learning: **MLOps, GenAI, Data Engineering (Kafka, Spark, Airflow), LangChain, CI/CD**
-- 🚀 Building: **Production-grade AI/ML + GenAI Systems**
-- ☁️ Working with: **AWS (EC2, S3)**, **GCP (Vertex AI, GCS)**, **GitHub Actions**, **DagsHub**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/divyansh-rawat-aba930313)** • `divyanshrawatofficial@gmail.com`
+## 🌐 SYSTEM PROFILE
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+user:
+  name: "Divyansh Rawat"
+  role: "AI / ML Engineer"
+  focus: "ML System Engineering"
+  location: "India 🇮🇳"
+  education: "B.Tech (AI/ML Track)"
+
+domains:
+  - Machine Learning
+  - Deep Learning
+  - NLP & GenAI
+  - Data Engineering
+  - MLOps & Cloud
+
+status: "Building end-to-end ML systems"
+mission: "Designing scalable, production-grade AI pipelines"
+```
 
 ---
 
-### 🧠 My Interests
+## 📡 TRANSMISSION CHANNELS
 
-- 🧩 GenAI + NLP: BERT, RoBERTa, GPT, RAG, Transformers, Prompt Engineering
-- 🧠 Deep Learning: CNN, RNN, LSTM, Attention, Sequence Models
-- 🔍 AI in Finance: Risk prediction, regulatory NLP, explainability
-- 🛠️ MLOps: CI/CD, MLflow, FastAPI, Docker, Monitoring, Versioning
-- 🏗️ Data Engineering: ETL pipelines, Real-time Streaming (Kafka, Spark, Airflow)
-- 🔄 Reinforcement Learning & Decision AI
-- 📊 Research, Technical Writing, Building Scalable AI Systems
+[LinkedIn](https://www.linkedin.com/in/divyansh-rawat-aba930313/)  
+[GitHub](https://github.com/DsThakurRawat)  
+[LeetCode](https://leetcode.com/u/codexdiv/)  
+[Hugging Face](https://huggingface.co/AIMLxDIV)
 
 ---
 
-### 🎯 Open Roles I'm Targeting
+## 🔮 TECHNOLOGY MATRIX
 
-- ✅ **ML Engineer / Deep Learning Engineer**
-- ✅ **NLP / GenAI Engineer**
-- ✅ **MLOps Engineer / ML System Engineer**
-- ✅ **AI Research Intern / Applied AI Research**
-- ✅ **Data Engineer (ETL, Real-time Systems)**
-- ✅ **AI in Finance / RegTech Research**
-  
-> 💡 I’m open to **collaborating on projects in any domain** – AI, ML, GenAI, MLOps, CV, NLP, Research, Data, or Cloud.
+### ▸ CORE LANGUAGES
+- Python
+- C++
+- Go
+- SQL
 
----
+### ▸ ML / DL
+- Scikit-Learn
+- PyTorch
+- TensorFlow
+- XGBoost
 
-### 🧰 Tools I Use
+### ▸ NLP & GENAI
+- Hugging Face
+- Transformers
+- LangChain
+- RAG Systems
+- AI Agents
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,huggingface,langchain,docker,fastapi,flask,git,github,linux,airflow,spark,kafka,mysql,postgres,mongodb,streamlit,vscode,kaggle,aws,gcp" />
-</p>
+### ▸ DATA ENGINEERING
+- Spark
+- Airflow
+- Kafka
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DsThakurRawat&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DsThakurRawat&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 Recent Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DsThakurRawat&theme=tokyo-night" />
-</p>
+### ▸ DEPLOYMENT & MLOPS
+- Docker
+- FastAPI
+- MLflow
+- AWS / Cloud
 
 ---
 
-### 🏆 My Coding Profiles
-<!--
+## 🚀 FEATURED PROJECTS
 
-- 🔗 [Leetcode](https://leetcode.com/u/codexdiv/)
-- 🔗 [Codeforces](https://codeforces.com/profile/divyanshthakur594)
-- 🔗 [CodeChef](https://www.codechef.com/users/dsthakurrrawat)
-- 🔗 [AtCoder](https://atcoder.jp/users/DsThakurRawat)
-- 🔗 [Kaggle](https://www.kaggle.com/dsthakurrawat)
-- 🔗 [Hugging Face](https://huggingface.co/AIMLxDIV)
--->
----
+### 🔹 JOBŌ — AI Job Application Tracker
+- Resume parsing & scoring  
+- Application tracking system  
+- Planned: Agent-based auto-apply  
+- MLOps-ready architecture  
 
-### 📌 Featured Projects
+### 🔹 END-TO-END MLOPS PIPELINES
+- ETL → Training → Tracking → Deployment  
+- MLflow + Docker + Cloud  
 
-| Project Name                  | Description                                                  | Tech Used                                      |
-|------------------------------|--------------------------------------------------------------|------------------------------------------------|
-| `ML Network Security System` | Scalable threat detection system w/ real-time ETL + MLOps    | Flask, MongoDB, Docker, MLflow, DagsHub, AWS   |
-| `Texti – AI Text Enhancer`  | Summarization & rewriting using BART/T5                      | FastAPI, Hugging Face, Docker, Streamlit       |
-| `AIML-NLP-GenAI Notebooks`   | All-in-one notebook repo for modern NLP & Transformers       | PyTorch, BERT, SBERT, RAG, scikit-learn        |
-| `ML-in-Production (WIP)`     | End-to-End ML system with CI/CD, Monitoring, Versioning      | MLflow, Docker, FastAPI, GitHub Actions        |
-| `DSA-CP Practice`            | Competitive Programming + DSA solutions                      | C++, STL                                        |
+### 🔹 NLP & RAG SYSTEMS
+- TF-IDF → Word2Vec → BERT → SBERT  
+- Production RAG pipelines  
 
 ---
 
-### 💬 Let’s Connect!
+## 📊 GITHUB STATS
 
-- 💌 Email: `divyanshrawatofficial@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/divyansh-rawat-aba930313](https://www.linkedin.com/in/divyansh-rawat-aba930313)
-- 🚀 Actively open to **internships, collaborations, and impactful research projects**
+GitHub profile statistics enabled via widgets.
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DsThakurRawat/DsThakurRawat/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/DsThakurRawat/DsThakurRawat/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🎯 CURRENT FOCUS
+
+```diff
++ ML System Engineering
++ RAG & Agentic AI
++ Cloud & MLOps
++ Internship Preparation (Q4 2025)
+```
+
+---
+
+## 📫 CONNECT
+
+- LinkedIn
+- GitHub
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DsThakurRawat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+⭐ If you like my work, consider starring my repositories
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
